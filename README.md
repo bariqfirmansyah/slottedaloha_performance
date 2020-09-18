@@ -1,4 +1,4 @@
-[TOC]
+https://hackmd.io/LEQywFmBQK6ZsAfM2WW6tg
 ## Background
 The **Slotted ALOHA** procedure segments the time into slots of a fixed length $\tau$. Every packet transmitted must fit into one of these slots. A packet arriving to be transmitted at any given station must be delayed until the beginning of the next slot. The station can be in either of three states:
 -- idle (no ready packet to be transmitted)
